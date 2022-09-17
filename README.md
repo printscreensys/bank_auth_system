@@ -1,4 +1,4 @@
-# bank_auth_system
+# Bank application
 JetBrains Academy Project
 Simple bank application
 Features
